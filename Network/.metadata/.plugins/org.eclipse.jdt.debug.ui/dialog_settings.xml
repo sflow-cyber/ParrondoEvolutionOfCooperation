@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="conditionHistory">
+		<item value="1" key="conditionHistoryEntryCount"/>
+		<item value="pCopy &lt; 0 || pCopy &gt; 1" key="conditionHistoryEntry_0"/>
+	</section>
+</section>
